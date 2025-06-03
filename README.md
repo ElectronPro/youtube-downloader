@@ -30,5 +30,5 @@ Usage:
      
 
 
-https://github.com/ElectronPro/youtube-downloader/assets/71539127/5c13e0ba-58c3-4784-b60e-ce72c5c9e1a0
+<video src=https://github.com/ElectronPro/youtube-downloader/assets/71539127/5c13e0ba-58c3-4784-b60e-ce72c5c9e1a0>
 
